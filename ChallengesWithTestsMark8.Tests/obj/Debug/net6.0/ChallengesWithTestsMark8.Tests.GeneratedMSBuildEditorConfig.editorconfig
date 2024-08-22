@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ChallengesWithTestsMark8.Tests
-build_property.ProjectDir = C:\Users\user\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\
+build_property.ProjectDir = C:\repos\WeeklyChallenges1-6\ChallengesWithTestsMark8.Tests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
