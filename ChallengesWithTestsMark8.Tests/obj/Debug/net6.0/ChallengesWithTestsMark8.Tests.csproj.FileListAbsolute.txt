@@ -103,3 +103,9 @@ C:\Users\user\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\ne
 C:\Users\user\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\net6.0\ChallengesWithTestsMark8.Tests.pdb
 C:\Users\user\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\net6.0\ChallengesWithTestsMark8.Tests.genruntimeconfig.cache
 C:\Users\user\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\net6.0\ref\ChallengesWithTestsMark8.Tests.dll
+C:\repos\WeeklyChallenges1-6\ChallengesWithTestsMark8.Tests\obj\Debug\net6.0\ChallengesWithTestsMark8.Tests.csproj.AssemblyReference.cache
+C:\repos\WeeklyChallenges1-6\ChallengesWithTestsMark8.Tests\obj\Debug\net6.0\ChallengesWithTestsMark8.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\WeeklyChallenges1-6\ChallengesWithTestsMark8.Tests\obj\Debug\net6.0\ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache
+C:\repos\WeeklyChallenges1-6\ChallengesWithTestsMark8.Tests\obj\Debug\net6.0\ChallengesWithTestsMark8.Tests.AssemblyInfo.cs
+C:\repos\WeeklyChallenges1-6\ChallengesWithTestsMark8.Tests\obj\Debug\net6.0\ChallengesWithTestsMark8.Tests.csproj.CoreCompileInputs.cache
+C:\repos\WeeklyChallenges1-6\ChallengesWithTestsMark8.Tests\obj\Debug\net6.0\ChallengesWithTestsMark8.Tests.sourcelink.json
