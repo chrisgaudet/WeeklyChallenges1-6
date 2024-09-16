@@ -3,3 +3,13 @@ C:\repos\WeeklyChallenges1-6\ChallengesWithTestsMark8\obj\Debug\net6.0\Challenge
 C:\repos\WeeklyChallenges1-6\ChallengesWithTestsMark8\obj\Debug\net6.0\ChallengesWithTestsMark8.AssemblyInfo.cs
 C:\repos\WeeklyChallenges1-6\ChallengesWithTestsMark8\obj\Debug\net6.0\ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
 C:\repos\WeeklyChallenges1-6\ChallengesWithTestsMark8\obj\Debug\net6.0\ChallengesWithTestsMark8.sourcelink.json
+C:\repos\WeeklyChallenges1-6\ChallengesWithTestsMark8\bin\Debug\net6.0\ChallengesWithTestsMark8.exe
+C:\repos\WeeklyChallenges1-6\ChallengesWithTestsMark8\bin\Debug\net6.0\ChallengesWithTestsMark8.deps.json
+C:\repos\WeeklyChallenges1-6\ChallengesWithTestsMark8\bin\Debug\net6.0\ChallengesWithTestsMark8.runtimeconfig.json
+C:\repos\WeeklyChallenges1-6\ChallengesWithTestsMark8\bin\Debug\net6.0\ChallengesWithTestsMark8.dll
+C:\repos\WeeklyChallenges1-6\ChallengesWithTestsMark8\bin\Debug\net6.0\ChallengesWithTestsMark8.pdb
+C:\repos\WeeklyChallenges1-6\ChallengesWithTestsMark8\obj\Debug\net6.0\ChallengesWithTestsMark8.dll
+C:\repos\WeeklyChallenges1-6\ChallengesWithTestsMark8\obj\Debug\net6.0\refint\ChallengesWithTestsMark8.dll
+C:\repos\WeeklyChallenges1-6\ChallengesWithTestsMark8\obj\Debug\net6.0\ChallengesWithTestsMark8.pdb
+C:\repos\WeeklyChallenges1-6\ChallengesWithTestsMark8\obj\Debug\net6.0\ChallengesWithTestsMark8.genruntimeconfig.cache
+C:\repos\WeeklyChallenges1-6\ChallengesWithTestsMark8\obj\Debug\net6.0\ref\ChallengesWithTestsMark8.dll

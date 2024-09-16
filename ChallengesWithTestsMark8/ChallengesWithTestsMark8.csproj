@@ -5,8 +5,5 @@
     <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\repos\WeeklyChallengesSet2\ChallengesSet02.cs" Link="ChallengesSet02.cs" />
-  </ItemGroup>
 
 </Project>

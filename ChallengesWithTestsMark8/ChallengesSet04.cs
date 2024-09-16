@@ -74,9 +74,21 @@ namespace ChallengesWithTestsMark8
 
         public double AverageEvens(int[] numbers)
         {
+            if (numbers == null || numbers.Length == 0)
+            {
+                return 0;
+            }
+
             var n = numbers.Where(num => num % 2 == 0);
 
+            if (n.Count() == 0)
+            {
+                return 0;
+            }
+
             return n.Average();
+
+            
         }
 
         public int Factorial(int number)
